@@ -74,6 +74,20 @@ div.video iframe{
 
 }
 
+.widget-container3 {
+  width: 774px;
+  height: 400px;
+  margin: auto;
+  background-color: rgb(16, 227, 238);
+   padding: 1px;
+   position: absolute;
+   left: 25%;
+   top: 30%;
+  padding-bottom: 1%;
+
+
+}
+
  
  
    .widget-container_news{
